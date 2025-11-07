@@ -11,7 +11,7 @@ export const Footer = () => {
           {/* Social Links */}
           <div className="flex items-center gap-4">
             <Button variant="ghost" size="icon" className="hover:text-primary hover:glow" asChild>
-              <a href="https://github.com/madhushree" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <a href="https://github.com/M-Madhushree" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                 <Github className="h-5 w-5" />
               </a>
             </Button>

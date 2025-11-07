@@ -42,16 +42,16 @@ export const Hero = () => {
               </a>
             </Button>
             <Button size="lg" variant="outline" asChild>
-              <a href="/resume.pdf" download>
+              <a href="https://docs.google.com/document/d/1Zv2dVhrvYyng13hdJnzeYqGn5l8CzIiFlPiFDka84so/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <Download className="mr-2 h-5 w-5" />
-                Download Resume
+                View Resume
               </a>
             </Button>
           </div>
 
           <div className="flex items-center justify-center gap-6 animate-fade-in-up animation-delay-400">
             <Button variant="ghost" size="icon" className="hover:text-primary hover:glow" asChild>
-              <a href="https://github.com/madhushree" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <a href="https://github.com/M-Madhushree" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                 <Github className="h-6 w-6" />
               </a>
             </Button>
